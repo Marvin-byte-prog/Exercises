@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\Cola\bin\Debug\netcoreapp3.1\Cola.exe
+C:\Users\ASUS\source\repos\Cola\bin\Debug\netcoreapp3.1\Cola.deps.json
+C:\Users\ASUS\source\repos\Cola\bin\Debug\netcoreapp3.1\Cola.runtimeconfig.json
+C:\Users\ASUS\source\repos\Cola\bin\Debug\netcoreapp3.1\Cola.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Cola\bin\Debug\netcoreapp3.1\Cola.dll
+C:\Users\ASUS\source\repos\Cola\bin\Debug\netcoreapp3.1\Cola.pdb
+C:\Users\ASUS\source\repos\Cola\obj\Debug\netcoreapp3.1\Cola.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Cola\obj\Debug\netcoreapp3.1\Cola.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Cola\obj\Debug\netcoreapp3.1\Cola.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Cola\obj\Debug\netcoreapp3.1\Cola.dll
+C:\Users\ASUS\source\repos\Cola\obj\Debug\netcoreapp3.1\Cola.pdb
